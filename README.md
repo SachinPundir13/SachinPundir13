@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sachin Pundir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Unity+Game+Developer;C%23+Developer;3D+Game+Developer;Software+Developer;Mendix+Developer;Building+Games+%26+Interactive+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Unity+Game+Developer;C%23+Developer;3D+&+2D+Game+Developer;Software+Developer;Mendix+Developer;Building+Games+%26+Interactive+Experiences" />
 
 ### 🎮 Unity Game Developer | C# | Software Developer | Mendix Developer
 
