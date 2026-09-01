@@ -53,8 +53,6 @@ Building games, interactive experiences & software with code 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -76,6 +74,7 @@ Building games, interactive experiences & software with code 🚀
 
 ### 🔧 Tools
 
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -152,23 +151,6 @@ An endless runner game featuring continuous player movement and obstacle avoidan
 
 ---
 
-## 🏰 Mini Tower Defense
-
-A tower defense prototype focused on enemy waves, defensive systems and gameplay progression.
-
-### Features
-
-- 👾 Enemy waves
-- 🏰 Defensive towers
-- 🎯 Targeting systems
-- ❤️ Enemy health
-- 💰 Gameplay progression
-- 🧠 Enemy navigation
-
-**Tech:** `Unity` `C#` `NavMesh`
-
----
-
 ## 🎈 2D Balloon Pop
 
 A simple arcade-style 2D game created with Unity.
@@ -217,50 +199,6 @@ Experience with:
 - JSP
 - Servlets
 - MySQL
-- Flask
-
-### 🤖 Python & Data
-
-Experience with:
-
-- Python
-- Data processing
-- Machine Learning fundamentals
-- Flask-based applications
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SachinPundir13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinPundir13&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SachinPundir13&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SachinPundir13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
