@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sachin Pundir
 
-### 🎮 Unity Game Developer | C# | Software Developer
+### 🎮 Unity Game Developer | C# | Software Developer | Mendix Developer
 
 Building games, interactive experiences & software with code 🚀
 
@@ -199,16 +199,6 @@ Experience with:
 - JSP
 - Servlets
 - MySQL
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinPundir13&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 # 🎯 Currently Learning
 
