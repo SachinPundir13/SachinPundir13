@@ -3,6 +3,7 @@
 # 👋 Hey, I'm Sachin Pundir
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=2D+%26+3D+Games;Unity+Game+Developer;C%23+Developer;Gameplay+Programmer;Software+Developer;Mendix+Developer" />
+
 ### 🎮 Unity Game Developer | C# | Software Developer | Mendix Developer
 
 Building games, interactive experiences & software with code 🚀
